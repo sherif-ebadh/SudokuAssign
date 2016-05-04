@@ -1,0 +1,4 @@
+logging:
+  file: sudoku.log
+  level:
+    org.springframework.web: DEBUG
